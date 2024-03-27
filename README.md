@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **React.js, React Hooks, Jest for testing, TypeScript and Generative AI**
 
-- 👨‍💻 Some of my projects are available here: https://github.com/gspiandorello
+- 👨‍💻 Some of my projects are available here: https://github.com/gspiandorello?tab=repositories
 
 - 📫 How to reach me: **gabrielspiandorello@gmail.com or on my Linkedin**
 
