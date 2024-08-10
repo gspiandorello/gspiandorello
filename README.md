@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Spiandorello</h1>
-<h3 align="center">Currently in my 7th semester of 8 in Software Engineering at PUCRS, I reside in Brazil and work as a Software Engineer at Dell Technologies.</h3>
+<h3 align="center">Currently pursuing my Software Engineering degree at PUCRS, I reside in Brazil and work as a Software Engineer Intern at Dell Technologies.</h3>
 
 - 💻 I’m currently working at: **Dell Technologies**
 
