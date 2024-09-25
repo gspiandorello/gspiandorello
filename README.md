@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Spiandorello</h1>
-<h3 align="center">Currently pursuing my Software Engineering degree at PUCRS, I reside in Brazil and work as a Software Engineer Intern at Dell Technologies.</h3>
+<h3 align="center">Currently pursuing my Software Engineering degree at PUCRS, I reside in Brazil and work as a Software Developer at Nelogica.</h3>
 
-- 💻 I’m currently working at: **Dell Technologies**
+- 💻 I’m currently working at: **Nelogica**
 
-- 📚 I’m currently learning: **React.js and Node.js**
+- 📚 I’m currently learning: **PHP and Laravel**
 
 - 💡 Some of my projects are available here: https://github.com/gspiandorello?tab=repositories
 
